@@ -1,12 +1,7 @@
-/*  
-imagen 433px
-caja 480px ancho
-caja 750px alto
 
-*/
 @font-face {
     font-family: Outfit;
-    src: url(Fonts/Outfit-VariableFont_wght.ttf);
+    src: url(fonts/Outfit-VariableFont_wght.ttf);
 }
 *{
     margin: 0;
