@@ -6,7 +6,7 @@ caja 750px alto
 */
 @font-face {
     font-family: Outfit;
-    src: url(Fonts/Outfit-VariableFont_wght.ttf);
+    src: url('Fonts/Outfit-VariableFont_wght.ttf');
 }
 *{
     margin: 0;
